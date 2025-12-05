@@ -3,7 +3,7 @@ import NavBar from "./Components/NavBar";
 import Hero from "./Components/Hero";
 import Stats from "./Components/Stats";
 import Business from "./Components/Business";
-import Invoicing from "./Components/invoicing";
+import Invoicing from "./Components/Invoicing";
 import Analysis from "./Components/Analysis";
 import Testemonials from "./Components/Testemonials";
 import Companies from "./Components/Companies";
